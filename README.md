@@ -20,4 +20,4 @@
 * Michael Jeong : jihoonys82@gmail.com 
 
 ## Appendix
-# CORS F***!!!!!
+**CORS!!!!!** I hate CORS.. it makes me take more time for development!! F***
