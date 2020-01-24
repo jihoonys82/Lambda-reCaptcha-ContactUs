@@ -1,8 +1,8 @@
-Serverless Contact Us with reCaptcha 
+# Serverless Contact Us with reCaptcha 
 
-Applied site : https://www.puretechref.com
+## Applied site : https://www.puretechref.com
 
-Required 
+## Required 
 * Java 1.8 
 * AWS Lambda
 * AWS API Gateway
@@ -11,13 +11,13 @@ Required
 * reCaptchaV2 
 * GMail account
 
-Dependencies 
+## Dependencies 
 * AWS-SDK for Java
 * javax.mail 
 * jackson-core 
 
-Question? Contact me :
+## Question? Contact me :
 * Michael Jeong : jihoonys82@gmail.com 
 
-Appendix
-[[CORS F***!!!!!]]
+## Appendix
+# CORS F***!!!!!
