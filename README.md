@@ -6,9 +6,9 @@
 * Java 1.8 
 * AWS Lambda
 * AWS API Gateway
-* AWS DynamoDB
+* AWS DynamoDB // if you don't want to store data, you can get rid of related source easily.
 * AWS S3(for the lambda source)
-* reCaptchaV2 
+* reCaptchaV2 // it required to register at google developer page. (Free! maybe..)
 * GMail account
 
 ## Dependencies 
